@@ -1,8 +1,7 @@
 streamlit
+pydeck
+geopy
 pandas
 numpy
 scikit-learn
 joblib
-pydeck
-geopy
-matplotlib
